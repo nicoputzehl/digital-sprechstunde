@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-DE'
+title = 'Sprechstunde Digital im HausDrei'
+theme = 'archie'
+defaultContentLanguage = "de"
