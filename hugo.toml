@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://nicoputzehl.github.io/digital-sprechstunde/'
 languageCode = 'de-DE'
 title = 'Sprechstunde Digital im HausDrei'
 theme = 'archie'
