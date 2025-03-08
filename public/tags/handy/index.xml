@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Handy on Sprechstunde Digital im HausDrei</title>
+    <link>http://localhost:1313/tags/handy/</link>
+    <description>Recent content in Handy on Sprechstunde Digital im HausDrei</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 11 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/handy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie erhöhe ich die Zeit, bis an meinem Telefon die Mailbox rangeht?</title>
+      <link>http://localhost:1313/posts/2024-11-11-mailbox/</link>
+      <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-mailbox/</guid>
+      <description>&lt;p&gt;Um die Anrufweiterleitungszeit (Zeit bis zur Mailbox) an deinem Telefon zu erhöhen, gibt es verschiedene Vorgehensweisen je nach Netzanbieter.&lt;/p&gt;&#xA;&lt;h2 id=&#34;allgemeine-methode&#34;&gt;Allgemeine Methode&lt;/h2&gt;&#xA;&lt;p&gt;Tippe diese Zahlenfolge in dein Telefon ein:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;61*Mailboxnummer*11*30#&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;&#xA;&lt;li&gt;&amp;ldquo;30&amp;rdquo; steht für 30 Sekunden Klingelzeit&lt;/li&gt;&#xA;&lt;li&gt;Du kannst auch andere Zeiten wählen (15, 20, 25 Sekunden)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;je-nach-anbieter&#34;&gt;Je nach Anbieter&lt;/h2&gt;&#xA;&lt;h3 id=&#34;aldi-talk&#34;&gt;Aldi Talk&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;61*333**30#&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;telekom&#34;&gt;Telekom&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;61*3311**30#&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;vodafone&#34;&gt;Vodafone&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;61*5500**30#&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;o2&#34;&gt;O2&lt;/h3&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;61*333**30#&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>Wie erstelle ich aus meinen Fotos PDF-Dateien?</title>
+      <link>http://localhost:1313/posts/2024-11-11-fotos-zu-pdf-android/</link>
+      <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-fotos-zu-pdf-android/</guid>
+      <description>&lt;p&gt;Es gibt verschiedene Möglichkeiten, um mit einem Android Handy aus Fotos PDF-Dateien zu machen.&lt;/p&gt;&#xA;&lt;h2 id=&#34;google-drive-app&#34;&gt;Google Drive App&lt;/h2&gt;&#xA;&lt;p&gt;Man kann direkt aus der Google Drive App einen PDF aus einem Dokument erstelltn.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;+-Symbol&lt;/li&gt;&#xA;&lt;li&gt;Scan&lt;/li&gt;&#xA;&lt;li&gt;Fotografieren des Textes, der in PDF gewandelt werden soll&lt;/li&gt;&#xA;&lt;li&gt;ggf. Zuschneiden&lt;/li&gt;&#xA;&lt;li&gt;Name und Speicherort für PDF auswählen&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;app-aus-dem-playstore&#34;&gt;App aus dem Playstore&lt;/h2&gt;&#xA;&lt;p&gt;(zb. CamScanner-App)&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Playstore kostenlos laden&lt;/li&gt;&#xA;&lt;li&gt;Kamera-Symbol&lt;/li&gt;&#xA;&lt;li&gt;„Speichern als PDF“ (mehrere Fotos pro PDF möglich)&lt;/li&gt;&#xA;&lt;li&gt;Freemium Version mit Werbung.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;webseiten&#34;&gt;Webseiten&lt;/h2&gt;&#xA;&lt;p&gt;Die Version die wir gewählt haben an diesem Abend, war das Umwandeln der Fotos auf einer Webseite: &lt;a href=&#34;https://www.ilovepdf.com&#34;&gt;www.ilovepdf.com&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Wie erstelle ich Kalender Termine auf meinem Android Telefon mit Google Gemini?</title>
+      <link>http://localhost:1313/posts/2024-11-11-termine-sprachassistent/</link>
+      <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-termine-sprachassistent/</guid>
+      <description>&lt;p&gt;Ich konnte es leider vor Ort nicht mehr testen. Und zu Hause leider auch nicht, mangels Android Device.&lt;/p&gt;&#xA;&lt;p&gt;Aber meiner Recherche nach ist es möglich.&#xA;Ich habe dazu folgende Links gefunden:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;mit &lt;a href=&#34;https://support.google.com/assistant/answer/7678386?hl=de&amp;amp;co=GENIE.Platform%3DAndroid&#34;&gt;Google Assistant&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;mit &lt;a href=&#34;https://support.google.com/gemini/answer/15305236?hl=en&amp;amp;co=GENIE.Platform%3DAndroid&#34;&gt;Google Gemini&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wie kann ich Bilder von einem Samsung Handy direkt auf einen USB Stich übertragen?</title>
+      <link>http://localhost:1313/posts/2024-11-11-bilder-handy-usbstick/</link>
+      <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-bilder-handy-usbstick/</guid>
+      <description>&lt;p&gt;Das Übertragen direkt scheint nur mit speziellen Zubehör möglich zu sein.&#xA;Selbst konnte ich es nicht testen, da ich kein Android Device aktiv am Laufen hab. Dies ergab meine Recherche:&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-du-brauchst&#34;&gt;Was du brauchst:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Einen OTG-Adapter (On-The-Go) für micro-USB&lt;/li&gt;&#xA;&lt;li&gt;Deinen USB-Stick&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;schritt-für-schritt-anleitung&#34;&gt;Schritt-für-Schritt Anleitung:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Stecke den OTG-Adapter in den Ladeanschluss deines Samsung Galaxy A3&lt;/li&gt;&#xA;&lt;li&gt;Verbinde deinen USB-Stick mit dem OTG-Adapter&lt;/li&gt;&#xA;&lt;li&gt;Warte kurz - der Dateimanager sollte automatisch starten&lt;/li&gt;&#xA;&lt;li&gt;Falls nicht, öffne die App &amp;ldquo;Meine Dateien&amp;rdquo; auf deinem Handy&lt;/li&gt;&#xA;&lt;li&gt;Navigiere zu deinen Fotos (meistens unter &amp;ldquo;Bilder&amp;rdquo; oder &amp;ldquo;DCIM&amp;rdquo;)&lt;/li&gt;&#xA;&lt;li&gt;Wähle die Fotos aus, die du übertragen möchtest&lt;/li&gt;&#xA;&lt;li&gt;Tippe auf &amp;ldquo;Kopieren&amp;rdquo; oder &amp;ldquo;Verschieben&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Wähle als Ziel deinen USB-Stick (erscheint als &amp;ldquo;USB-Speicher&amp;rdquo;)&lt;/li&gt;&#xA;&lt;li&gt;Tippe auf &amp;ldquo;Fertig&amp;rdquo; oder &amp;ldquo;Kopieren&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Warte, bis die Übertragung abgeschlossen ist&lt;/li&gt;&#xA;&lt;li&gt;Trenne den USB-Stick erst, wenn die Übertragung fertig ist&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;tipps&#34;&gt;Tipps:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stelle sicher, dass dein USB-Stick im Format FAT32 oder exFAT formatiert ist&lt;/li&gt;&#xA;&lt;li&gt;Dein Handy sollte ausreichend Akku haben für die Übertragung&lt;/li&gt;&#xA;&lt;li&gt;OTG-Adapter kosten meist zwischen 5-15€&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;weiterführende-quellen&#34;&gt;Weiterführende Quellen:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.samsung.com/de/support/mobile-devices/samsung-smartphone-wie-kann-ich-dateien-zwischen-meinem-geraet-und-einem-usb-stick-uebertragen/&#34;&gt;Samsung Support: USB-Geräte verbinden&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.netzwelt.de/otg-adapter/index.html&#34;&gt;Netzwelt: OTG-Adapter Anleitung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.computerbild.de/artikel/cb-Tipps-Handy-USB-OTG-9889013.html&#34;&gt;Computer Bild: USB OTG erklärt&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

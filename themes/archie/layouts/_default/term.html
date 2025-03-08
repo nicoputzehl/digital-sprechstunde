@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ if isset .Data "Term" }}
-<h1>Entries tagged - "{{ .Data.Term }}"</h1>
+<h2>Themen aus dem Bereich - "{{ .Data.Term }}"</h2>
 {{ else }}
-<h1 class="page-title">All articles</h1>
+<h2 class="page-title">All articles</h2>
 {{ end }}
 
 <ul class="posts">

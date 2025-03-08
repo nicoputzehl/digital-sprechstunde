@@ -3,3 +3,18 @@ languageCode = 'de-DE'
 title = 'Sprechstunde Digital im HausDrei'
 theme = 'archie'
 defaultContentLanguage = "de"
+
+[[menu.main]]
+name = "Alle Fragen"
+url = "/posts"
+weight = 2
+
+# [[menu.main]]
+# name = "About"
+# url = "/about"
+# weight = 3
+
+[[menu.main]]
+name = "Themen"
+url = "/tags"
+weight = 4

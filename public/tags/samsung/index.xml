@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samsung on Sprechstunde Digital im HausDrei</title>
+    <link>http://localhost:1313/tags/samsung/</link>
+    <description>Recent content in Samsung on Sprechstunde Digital im HausDrei</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Mon, 11 Nov 2024 23:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/samsung/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wie kann ich Bilder von einem Samsung Handy direkt auf einen USB Stich übertragen?</title>
+      <link>http://localhost:1313/posts/2024-11-11-bilder-handy-usbstick/</link>
+      <pubDate>Mon, 11 Nov 2024 23:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2024-11-11-bilder-handy-usbstick/</guid>
+      <description>&lt;p&gt;Das Übertragen direkt scheint nur mit speziellen Zubehör möglich zu sein.&#xA;Selbst konnte ich es nicht testen, da ich kein Android Device aktiv am Laufen hab. Dies ergab meine Recherche:&lt;/p&gt;&#xA;&lt;h2 id=&#34;was-du-brauchst&#34;&gt;Was du brauchst:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Einen OTG-Adapter (On-The-Go) für micro-USB&lt;/li&gt;&#xA;&lt;li&gt;Deinen USB-Stick&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;schritt-für-schritt-anleitung&#34;&gt;Schritt-für-Schritt Anleitung:&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Stecke den OTG-Adapter in den Ladeanschluss deines Samsung Galaxy A3&lt;/li&gt;&#xA;&lt;li&gt;Verbinde deinen USB-Stick mit dem OTG-Adapter&lt;/li&gt;&#xA;&lt;li&gt;Warte kurz - der Dateimanager sollte automatisch starten&lt;/li&gt;&#xA;&lt;li&gt;Falls nicht, öffne die App &amp;ldquo;Meine Dateien&amp;rdquo; auf deinem Handy&lt;/li&gt;&#xA;&lt;li&gt;Navigiere zu deinen Fotos (meistens unter &amp;ldquo;Bilder&amp;rdquo; oder &amp;ldquo;DCIM&amp;rdquo;)&lt;/li&gt;&#xA;&lt;li&gt;Wähle die Fotos aus, die du übertragen möchtest&lt;/li&gt;&#xA;&lt;li&gt;Tippe auf &amp;ldquo;Kopieren&amp;rdquo; oder &amp;ldquo;Verschieben&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Wähle als Ziel deinen USB-Stick (erscheint als &amp;ldquo;USB-Speicher&amp;rdquo;)&lt;/li&gt;&#xA;&lt;li&gt;Tippe auf &amp;ldquo;Fertig&amp;rdquo; oder &amp;ldquo;Kopieren&amp;rdquo;&lt;/li&gt;&#xA;&lt;li&gt;Warte, bis die Übertragung abgeschlossen ist&lt;/li&gt;&#xA;&lt;li&gt;Trenne den USB-Stick erst, wenn die Übertragung fertig ist&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;tipps&#34;&gt;Tipps:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Stelle sicher, dass dein USB-Stick im Format FAT32 oder exFAT formatiert ist&lt;/li&gt;&#xA;&lt;li&gt;Dein Handy sollte ausreichend Akku haben für die Übertragung&lt;/li&gt;&#xA;&lt;li&gt;OTG-Adapter kosten meist zwischen 5-15€&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;weiterführende-quellen&#34;&gt;Weiterführende Quellen:&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.samsung.com/de/support/mobile-devices/samsung-smartphone-wie-kann-ich-dateien-zwischen-meinem-geraet-und-einem-usb-stick-uebertragen/&#34;&gt;Samsung Support: USB-Geräte verbinden&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.netzwelt.de/otg-adapter/index.html&#34;&gt;Netzwelt: OTG-Adapter Anleitung&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.computerbild.de/artikel/cb-Tipps-Handy-USB-OTG-9889013.html&#34;&gt;Computer Bild: USB OTG erklärt&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
