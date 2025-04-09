@@ -7,5 +7,5 @@ tags: [E-Mail, gmail]
 
 ## archivierte E-Mails in Gmail
 
-Die archivierten E-Mails sind zu finden, wenn man im Menü auf "mehr" klickt. Dort wird dann der Menüpunkt "Alle E-Mails" sichtbar. 
+Die archivierten E-Mails sind zu finden, wenn man im Menü auf "mehr" klickt. Dort wird dann der Menüpunkt "Alle E-Mails" sichtbar.
 Dort sind alle archivierten E-Mails zu finden.

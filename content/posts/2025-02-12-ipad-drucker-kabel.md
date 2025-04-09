@@ -6,6 +6,7 @@ tags: [Drucker, Apple, IPad]
 ---
 
 ## IPad an Drucker anschließen
+
 Für den Anschluß des IPads an einen Drucker mit einem gängigen USB-Anschluss, wird ein Adapter benötigt(Lightning auf USB oder USB-C auf USB, je nach iPad-Modell).
 
 1. Adapter an IPad anschließen
