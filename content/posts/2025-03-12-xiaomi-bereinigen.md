@@ -1,6 +1,6 @@
 ---
 title: "Ist der Speicher meines Telefons voll?"
-date: 2025-03-13T23:00:00.000Z
+date: 2025-03-12T23:00:00.000Z
 description: "Es kommt täglich eine Meldung, dass der Papierkorb geleert werden soll"
 tags: [Android, Xiaomi]
 ---
